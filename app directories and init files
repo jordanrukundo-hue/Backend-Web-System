@@ -1,0 +1,13 @@
+bash
+
+mkdir -p /home/claude/university-backend/university_api/apps/users
+mkdir -p /home/claude/university-backend/university_api/apps/rooms
+mkdir -p /home/claude/university-backend/university_api/apps/maintenance
+touch /home/claude/university-backend/university_api/apps/__init__.py
+touch /home/claude/university-backend/university_api/apps/users/__init__.py
+touch /home/claude/university-backend/university_api/apps/rooms/__init__.py
+touch /home/claude/university-backend/university_api/apps/maintenance/__init__.py
+echo "done"
+Output
+
+done
