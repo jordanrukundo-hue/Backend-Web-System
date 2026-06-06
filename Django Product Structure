@@ -1,0 +1,6 @@
+bash
+
+mkdir -p /home/claude/university-backend/university_api/{settings,apps/{users,rooms,maintenance}}
+Output
+
+exit code 0
