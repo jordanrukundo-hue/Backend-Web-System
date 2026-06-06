@@ -1,0 +1,7 @@
+
+bash
+
+mkdir -p /home/claude/university-backend /home/claude/university-frontend && echo "dirs created"
+Output
+
+dirs created
